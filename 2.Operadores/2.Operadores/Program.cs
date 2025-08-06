@@ -77,10 +77,6 @@
             bool exp4 = !exp2;
             bool exp5 = !exp3 || exp4;
             Console.WriteLine($"exp1={exp1}, exp2={exp2}, exp3={exp3}, exp4={exp4}, exp5={exp5}");
-
-
-
-
         }
     }
 }
