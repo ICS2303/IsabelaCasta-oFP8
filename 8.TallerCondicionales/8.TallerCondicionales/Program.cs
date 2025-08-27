@@ -166,6 +166,35 @@
 
             Console.WriteLine($"P1({x1},{y1}); P2({x2},{y2}); P3({x3},{y3})");
 
+            d1 = MathF.Sqrt((x2 - x1) * (x2 - x1) + (y2 - y1) * (y2 - y1));
+            Console.WriteLine($"La distancia de P1 a P2 es {d1}");
+            d2 = MathF.Sqrt((x3 - x2) * (x3 - x2) + (y3 - y2) * (y3 - y2));
+            Console.WriteLine($"La distancia de P2 a P3 es {d2}");
+            d3 = MathF.Sqrt((x3 - x1) * (x3 - x1) + (y3 - y1) * (y3 - y1));
+            Console.WriteLine($"La distancia de P3 a P1 es {d3}");
+
+            if (d1 + d2 > d3 && d1 + d3 > d2 && d2 + d3 > d1)
+            {
+                Console.WriteLine("Con estas distancias se puede construir un triángulo");
+            }
+
+            else
+            {
+                Console.WriteLine("No se puede construir un triángulo con estas distancias");
+            }
+            if (d1 + d2 <= d3)
+            {
+                Console.WriteLine("Pues d1+d2<d3");
+            }
+            if (d1 + d3 <= d2)
+            {
+                Console.WriteLine("Pues d1+d3<d2");
+            }
+            if (d2 + d3 <= d1)
+            {
+                Console.WriteLine("Pues d2+d3<d1");
+            }
+
             /*EJERCICIO 4: El personaje de un juego, solo se puede mover en forma horizontal (Izquierda o Derecha), 
             crear un programa que muestre en la consola un mensaje diciendo si el personaje se mueve 
             hacia la izquierda o hacia la derecha, según la tecla que se presione en el teclado. 
