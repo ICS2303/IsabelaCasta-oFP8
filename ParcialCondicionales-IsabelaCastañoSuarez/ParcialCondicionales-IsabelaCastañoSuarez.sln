@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParcialCondicionales-IsabelaCastañoSuarez", "ParcialCondicionales-IsabelaCastañoSuarez\ParcialCondicionales-IsabelaCastañoSuarez.csproj", "{51239F73-6225-4C9C-861E-E76EE6BBA2C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51239F73-6225-4C9C-861E-E76EE6BBA2C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51239F73-6225-4C9C-861E-E76EE6BBA2C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51239F73-6225-4C9C-861E-E76EE6BBA2C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51239F73-6225-4C9C-861E-E76EE6BBA2C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91F06C80-2E83-4F62-A78E-19A0DB745824}
+	EndGlobalSection
+EndGlobal
