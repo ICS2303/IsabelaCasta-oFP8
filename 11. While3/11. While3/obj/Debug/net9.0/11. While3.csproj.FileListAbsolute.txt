@@ -1,0 +1,15 @@
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\11. While3\11. While3\bin\Debug\net9.0\11. While3.exe
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\11. While3\11. While3\bin\Debug\net9.0\11. While3.deps.json
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\11. While3\11. While3\bin\Debug\net9.0\11. While3.runtimeconfig.json
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\11. While3\11. While3\bin\Debug\net9.0\11. While3.dll
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\11. While3\11. While3\bin\Debug\net9.0\11. While3.pdb
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\11. While3\11. While3\obj\Debug\net9.0\11. While3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\11. While3\11. While3\obj\Debug\net9.0\11. While3.AssemblyInfoInputs.cache
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\11. While3\11. While3\obj\Debug\net9.0\11. While3.AssemblyInfo.cs
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\11. While3\11. While3\obj\Debug\net9.0\11. While3.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\11. While3\11. While3\obj\Debug\net9.0\11. While3.sourcelink.json
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\11. While3\11. While3\obj\Debug\net9.0\11. While3.dll
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\11. While3\11. While3\obj\Debug\net9.0\refint\11. While3.dll
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\11. While3\11. While3\obj\Debug\net9.0\11. While3.pdb
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\11. While3\11. While3\obj\Debug\net9.0\11. While3.genruntimeconfig.cache
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\11. While3\11. While3\obj\Debug\net9.0\ref\11. While3.dll
