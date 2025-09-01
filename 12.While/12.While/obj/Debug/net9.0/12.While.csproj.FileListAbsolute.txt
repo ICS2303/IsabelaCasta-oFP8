@@ -1,0 +1,15 @@
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\12.While\12.While\bin\Debug\net9.0\12.While.exe
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\12.While\12.While\bin\Debug\net9.0\12.While.deps.json
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\12.While\12.While\bin\Debug\net9.0\12.While.runtimeconfig.json
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\12.While\12.While\bin\Debug\net9.0\12.While.dll
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\12.While\12.While\bin\Debug\net9.0\12.While.pdb
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\12.While\12.While\obj\Debug\net9.0\12.While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\12.While\12.While\obj\Debug\net9.0\12.While.AssemblyInfoInputs.cache
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\12.While\12.While\obj\Debug\net9.0\12.While.AssemblyInfo.cs
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\12.While\12.While\obj\Debug\net9.0\12.While.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\12.While\12.While\obj\Debug\net9.0\12.While.sourcelink.json
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\12.While\12.While\obj\Debug\net9.0\12.While.dll
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\12.While\12.While\obj\Debug\net9.0\refint\12.While.dll
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\12.While\12.While\obj\Debug\net9.0\12.While.pdb
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\12.While\12.While\obj\Debug\net9.0\12.While.genruntimeconfig.cache
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\12.While\12.While\obj\Debug\net9.0\ref\12.While.dll
