@@ -1,0 +1,15 @@
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\ParcialCiclosIsabelaCastaño\ParcialCiclosIsabelaCastaño\bin\Debug\net9.0\ParcialCiclosIsabelaCastaño.exe
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\ParcialCiclosIsabelaCastaño\ParcialCiclosIsabelaCastaño\bin\Debug\net9.0\ParcialCiclosIsabelaCastaño.deps.json
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\ParcialCiclosIsabelaCastaño\ParcialCiclosIsabelaCastaño\bin\Debug\net9.0\ParcialCiclosIsabelaCastaño.runtimeconfig.json
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\ParcialCiclosIsabelaCastaño\ParcialCiclosIsabelaCastaño\bin\Debug\net9.0\ParcialCiclosIsabelaCastaño.dll
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\ParcialCiclosIsabelaCastaño\ParcialCiclosIsabelaCastaño\bin\Debug\net9.0\ParcialCiclosIsabelaCastaño.pdb
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\ParcialCiclosIsabelaCastaño\ParcialCiclosIsabelaCastaño\obj\Debug\net9.0\ParcialCiclosIsabelaCastaño.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\ParcialCiclosIsabelaCastaño\ParcialCiclosIsabelaCastaño\obj\Debug\net9.0\ParcialCiclosIsabelaCastaño.AssemblyInfoInputs.cache
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\ParcialCiclosIsabelaCastaño\ParcialCiclosIsabelaCastaño\obj\Debug\net9.0\ParcialCiclosIsabelaCastaño.AssemblyInfo.cs
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\ParcialCiclosIsabelaCastaño\ParcialCiclosIsabelaCastaño\obj\Debug\net9.0\ParcialCiclosIsabelaCastaño.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\ParcialCiclosIsabelaCastaño\ParcialCiclosIsabelaCastaño\obj\Debug\net9.0\ParcialCiclosIsabelaCastaño.sourcelink.json
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\ParcialCiclosIsabelaCastaño\ParcialCiclosIsabelaCastaño\obj\Debug\net9.0\ParcialCiclosIsabelaCastaño.dll
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\ParcialCiclosIsabelaCastaño\ParcialCiclosIsabelaCastaño\obj\Debug\net9.0\refint\ParcialCiclosIsabelaCastaño.dll
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\ParcialCiclosIsabelaCastaño\ParcialCiclosIsabelaCastaño\obj\Debug\net9.0\ParcialCiclosIsabelaCastaño.pdb
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\ParcialCiclosIsabelaCastaño\ParcialCiclosIsabelaCastaño\obj\Debug\net9.0\ParcialCiclosIsabelaCastaño.genruntimeconfig.cache
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\ParcialCiclosIsabelaCastaño\ParcialCiclosIsabelaCastaño\obj\Debug\net9.0\ref\ParcialCiclosIsabelaCastaño.dll
