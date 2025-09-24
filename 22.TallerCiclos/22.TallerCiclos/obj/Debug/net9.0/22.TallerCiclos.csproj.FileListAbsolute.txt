@@ -1,0 +1,15 @@
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\22.TallerCiclos\22.TallerCiclos\bin\Debug\net9.0\22.TallerCiclos.exe
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\22.TallerCiclos\22.TallerCiclos\bin\Debug\net9.0\22.TallerCiclos.deps.json
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\22.TallerCiclos\22.TallerCiclos\bin\Debug\net9.0\22.TallerCiclos.runtimeconfig.json
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\22.TallerCiclos\22.TallerCiclos\bin\Debug\net9.0\22.TallerCiclos.dll
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\22.TallerCiclos\22.TallerCiclos\bin\Debug\net9.0\22.TallerCiclos.pdb
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\22.TallerCiclos\22.TallerCiclos\obj\Debug\net9.0\22.TallerCiclos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\22.TallerCiclos\22.TallerCiclos\obj\Debug\net9.0\22.TallerCiclos.AssemblyInfoInputs.cache
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\22.TallerCiclos\22.TallerCiclos\obj\Debug\net9.0\22.TallerCiclos.AssemblyInfo.cs
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\22.TallerCiclos\22.TallerCiclos\obj\Debug\net9.0\22.TallerCiclos.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\22.TallerCiclos\22.TallerCiclos\obj\Debug\net9.0\22.TallerCiclos.sourcelink.json
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\22.TallerCiclos\22.TallerCiclos\obj\Debug\net9.0\22.TallerCiclos.dll
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\22.TallerCiclos\22.TallerCiclos\obj\Debug\net9.0\refint\22.TallerCiclos.dll
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\22.TallerCiclos\22.TallerCiclos\obj\Debug\net9.0\22.TallerCiclos.pdb
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\22.TallerCiclos\22.TallerCiclos\obj\Debug\net9.0\22.TallerCiclos.genruntimeconfig.cache
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\22.TallerCiclos\22.TallerCiclos\obj\Debug\net9.0\ref\22.TallerCiclos.dll
