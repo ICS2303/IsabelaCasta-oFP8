@@ -1,0 +1,15 @@
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\TallerVectores\TallerVectores\bin\Debug\net9.0\TallerVectores.exe
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\TallerVectores\TallerVectores\bin\Debug\net9.0\TallerVectores.deps.json
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\TallerVectores\TallerVectores\bin\Debug\net9.0\TallerVectores.runtimeconfig.json
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\TallerVectores\TallerVectores\bin\Debug\net9.0\TallerVectores.dll
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\TallerVectores\TallerVectores\bin\Debug\net9.0\TallerVectores.pdb
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\TallerVectores\TallerVectores\obj\Debug\net9.0\TallerVectores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\TallerVectores\TallerVectores\obj\Debug\net9.0\TallerVectores.AssemblyInfoInputs.cache
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\TallerVectores\TallerVectores\obj\Debug\net9.0\TallerVectores.AssemblyInfo.cs
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\TallerVectores\TallerVectores\obj\Debug\net9.0\TallerVectores.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\TallerVectores\TallerVectores\obj\Debug\net9.0\TallerVectores.sourcelink.json
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\TallerVectores\TallerVectores\obj\Debug\net9.0\TallerVectores.dll
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\TallerVectores\TallerVectores\obj\Debug\net9.0\refint\TallerVectores.dll
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\TallerVectores\TallerVectores\obj\Debug\net9.0\TallerVectores.pdb
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\TallerVectores\TallerVectores\obj\Debug\net9.0\TallerVectores.genruntimeconfig.cache
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\TallerVectores\TallerVectores\obj\Debug\net9.0\ref\TallerVectores.dll
