@@ -1,0 +1,15 @@
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\TallerMatrices\TallerMatrices\bin\Debug\net9.0\TallerMatrices.exe
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\TallerMatrices\TallerMatrices\bin\Debug\net9.0\TallerMatrices.deps.json
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\TallerMatrices\TallerMatrices\bin\Debug\net9.0\TallerMatrices.runtimeconfig.json
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\TallerMatrices\TallerMatrices\bin\Debug\net9.0\TallerMatrices.dll
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\TallerMatrices\TallerMatrices\bin\Debug\net9.0\TallerMatrices.pdb
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\TallerMatrices\TallerMatrices\obj\Debug\net9.0\TallerMatrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\TallerMatrices\TallerMatrices\obj\Debug\net9.0\TallerMatrices.AssemblyInfoInputs.cache
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\TallerMatrices\TallerMatrices\obj\Debug\net9.0\TallerMatrices.AssemblyInfo.cs
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\TallerMatrices\TallerMatrices\obj\Debug\net9.0\TallerMatrices.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\TallerMatrices\TallerMatrices\obj\Debug\net9.0\TallerMatrices.sourcelink.json
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\TallerMatrices\TallerMatrices\obj\Debug\net9.0\TallerMatrices.dll
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\TallerMatrices\TallerMatrices\obj\Debug\net9.0\refint\TallerMatrices.dll
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\TallerMatrices\TallerMatrices\obj\Debug\net9.0\TallerMatrices.pdb
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\TallerMatrices\TallerMatrices\obj\Debug\net9.0\TallerMatrices.genruntimeconfig.cache
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\TallerMatrices\TallerMatrices\obj\Debug\net9.0\ref\TallerMatrices.dll
