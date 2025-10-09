@@ -1,0 +1,15 @@
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\ParcialArreglosIsabelaCastaño\ParcialArreglosIsabelaCastaño\bin\Debug\net9.0\ParcialArreglosIsabelaCastaño.exe
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\ParcialArreglosIsabelaCastaño\ParcialArreglosIsabelaCastaño\bin\Debug\net9.0\ParcialArreglosIsabelaCastaño.deps.json
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\ParcialArreglosIsabelaCastaño\ParcialArreglosIsabelaCastaño\bin\Debug\net9.0\ParcialArreglosIsabelaCastaño.runtimeconfig.json
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\ParcialArreglosIsabelaCastaño\ParcialArreglosIsabelaCastaño\bin\Debug\net9.0\ParcialArreglosIsabelaCastaño.dll
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\ParcialArreglosIsabelaCastaño\ParcialArreglosIsabelaCastaño\bin\Debug\net9.0\ParcialArreglosIsabelaCastaño.pdb
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\ParcialArreglosIsabelaCastaño\ParcialArreglosIsabelaCastaño\obj\Debug\net9.0\ParcialArreglosIsabelaCastaño.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\ParcialArreglosIsabelaCastaño\ParcialArreglosIsabelaCastaño\obj\Debug\net9.0\ParcialArreglosIsabelaCastaño.AssemblyInfoInputs.cache
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\ParcialArreglosIsabelaCastaño\ParcialArreglosIsabelaCastaño\obj\Debug\net9.0\ParcialArreglosIsabelaCastaño.AssemblyInfo.cs
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\ParcialArreglosIsabelaCastaño\ParcialArreglosIsabelaCastaño\obj\Debug\net9.0\ParcialArreglosIsabelaCastaño.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\ParcialArreglosIsabelaCastaño\ParcialArreglosIsabelaCastaño\obj\Debug\net9.0\ParcialArreglosIsabelaCastaño.sourcelink.json
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\ParcialArreglosIsabelaCastaño\ParcialArreglosIsabelaCastaño\obj\Debug\net9.0\ParcialArreglosIsabelaCastaño.dll
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\ParcialArreglosIsabelaCastaño\ParcialArreglosIsabelaCastaño\obj\Debug\net9.0\refint\ParcialArreglosIsabelaCastaño.dll
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\ParcialArreglosIsabelaCastaño\ParcialArreglosIsabelaCastaño\obj\Debug\net9.0\ParcialArreglosIsabelaCastaño.pdb
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\ParcialArreglosIsabelaCastaño\ParcialArreglosIsabelaCastaño\obj\Debug\net9.0\ParcialArreglosIsabelaCastaño.genruntimeconfig.cache
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\ParcialArreglosIsabelaCastaño\ParcialArreglosIsabelaCastaño\obj\Debug\net9.0\ref\ParcialArreglosIsabelaCastaño.dll
