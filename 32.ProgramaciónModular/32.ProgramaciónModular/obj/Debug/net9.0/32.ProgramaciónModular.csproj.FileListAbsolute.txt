@@ -1,0 +1,15 @@
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\32.ProgramaciónModular\32.ProgramaciónModular\bin\Debug\net9.0\32.ProgramaciónModular.exe
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\32.ProgramaciónModular\32.ProgramaciónModular\bin\Debug\net9.0\32.ProgramaciónModular.deps.json
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\32.ProgramaciónModular\32.ProgramaciónModular\bin\Debug\net9.0\32.ProgramaciónModular.runtimeconfig.json
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\32.ProgramaciónModular\32.ProgramaciónModular\bin\Debug\net9.0\32.ProgramaciónModular.dll
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\32.ProgramaciónModular\32.ProgramaciónModular\bin\Debug\net9.0\32.ProgramaciónModular.pdb
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\32.ProgramaciónModular\32.ProgramaciónModular\obj\Debug\net9.0\32.ProgramaciónModular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\32.ProgramaciónModular\32.ProgramaciónModular\obj\Debug\net9.0\32.ProgramaciónModular.AssemblyInfoInputs.cache
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\32.ProgramaciónModular\32.ProgramaciónModular\obj\Debug\net9.0\32.ProgramaciónModular.AssemblyInfo.cs
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\32.ProgramaciónModular\32.ProgramaciónModular\obj\Debug\net9.0\32.ProgramaciónModular.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\32.ProgramaciónModular\32.ProgramaciónModular\obj\Debug\net9.0\32.ProgramaciónModular.sourcelink.json
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\32.ProgramaciónModular\32.ProgramaciónModular\obj\Debug\net9.0\32.ProgramaciónModular.dll
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\32.ProgramaciónModular\32.ProgramaciónModular\obj\Debug\net9.0\refint\32.ProgramaciónModular.dll
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\32.ProgramaciónModular\32.ProgramaciónModular\obj\Debug\net9.0\32.ProgramaciónModular.pdb
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\32.ProgramaciónModular\32.ProgramaciónModular\obj\Debug\net9.0\32.ProgramaciónModular.genruntimeconfig.cache
+C:\Users\EQUIPO\Desktop\Fundamentos de programación\IsabelaCasta-oFP8\32.ProgramaciónModular\32.ProgramaciónModular\obj\Debug\net9.0\ref\32.ProgramaciónModular.dll
